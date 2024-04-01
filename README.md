@@ -71,4 +71,4 @@ Los datos provienen de un repositorio en Kaggle: 'https://bit.ly/3OM11es'
 
 <h2>Dashboard</h2>
 
-![](img/Linkedin.png)
+![](https://github.com/Vanessa-VasquezLozano/rating_review_models/blob/main/img/Linkedin.PNG)
