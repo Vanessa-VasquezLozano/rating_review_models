@@ -57,7 +57,7 @@ Los datos provienen de un repositorio en Kaggle: 'https://bit.ly/3OM11es'
 |  **Aplicar técnica de análisis** | |
 |  - Aplicar segmentación | ✔️  |
 |  - Validar hipótesis | ✔️ |
-|  - Calcular riesgo relativo| ✔️  |
+|  - Calcular matriz de confusión| ✔️  |
 |  - Aplicar procesamiento del lenguaje natural (NLP)| ✔️  |
 |  **Resumir información en un dashboard o reporte** |   |
 |  - Representar datos a través de tabla resumen o scorecards | ✔️ |
