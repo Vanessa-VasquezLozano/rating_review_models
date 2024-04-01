@@ -1,39 +1,37 @@
+<h2> Amazon Rating Review Model ¿Cómo determinar la existencia de sentimientos que están en torno a la compra de un producto? </h2>
 
-### Amazon Rating Review Model ¿Cómo determinar la existencia de sentimientos que están en torno a la compra de un producto?
-  ----
-
-#### Proceso de cuantificación de comentarios para conocer el significado asociado a la compra de una categoría de producto de los clientes de Amazon ( Análisis de sentimientos para las revivew de Amazon con Vader y ROBerta )
-
-  
-### Objetivo del proyecto
+<h4>Proceso de cuantificación de comentarios para conocer el significado asociado a la compra de una categoría de producto de los clientes de Amazon ( Análisis de sentimientos para las revivew de Amazon con Vader y ROBerta)</h4>
+ 
+<h3>Objetivo del proyecto</h3>  
 
 <p>
 El objetivo principal consiste en comparar diversos algoritmos y métodos de análisis de sentimientos utilizados para categorizar los datos obtenidos del conjunto de datos de Ventas de Amazon. Se busca determinar qué enfoque produce los resultados más precisos y confiables en términos de precisión y fiabilidad. Estas evaluaciones se llevarán a cabo al comparar diferentes algoritmos de aprendizaje automático entre sí, así como al compararlos con un algoritmo basado en las calificaciones de estrellas.
 
 </p>
 
-### Insumos
+<h3>Insumos</h3> 
+
 <p>
 Los datos provienen de un repositorio en Kaggle: 'https://bit.ly/3OM11es'
 
 </p>
-
-### Herramientas que se usaron para el análisis
+<h3>Herramientas que se usaron para el análisis</h3> 
 <p>
   
-**Herramientas:**
-▪️ BigQuery
-▪️ PowerBI
-▪️ Google Cloud
-▪️ Google Colab
-▪️ Pitch
+▪️ **Herramientas:**
+ ▪️ BigQuery
+ ▪️ PowerBI
+ ▪️ Google Cloud
+ ▪️ Google Colab
+ ▪️ Pitch
 
 **Lenguajes:**
 ▪️ SQL
 ▪️ Python
 </p>
 
-### Habilidades desarrolladas en el análisis
+<h3>Habilidades desarrolladas en el análisis</h3> 
+
 | Habilidad |                         |
 |---|---|
 | **Procesar y preparar la base de datos** |
