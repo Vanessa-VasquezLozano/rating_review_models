@@ -1,3 +1,10 @@
+
+### Amazon Rating Review Model ¿Cómo determinar la existencia de sentimientos que están en torno a la compra de un producto?
+  ----
+
+#### Proceso de cuantificación de comentarios para conocer el significado asociado a la compra de una categoría de producto de los clientes de Amazon ( Análisis de sentimientos para las revivew de Amazon con Vader y ROBerta )
+
+  
 ### Objetivo del proyecto
 
 <p>
@@ -6,7 +13,6 @@ El objetivo principal consiste en comparar diversos algoritmos y métodos de an�
 </p>
 
 ### Insumos
-
 <p>
 Los datos provienen de un repositorio en Kaggle: 'https://bit.ly/3OM11es'
 
@@ -56,7 +62,7 @@ Los datos provienen de un repositorio en Kaggle: 'https://bit.ly/3OM11es'
 |  - Aplicar procesamiento del lenguaje natural (NLP)| ✔️  |
 |  **Resumir información en un dashboard o reporte** |   |
 |  - Representar datos a través de tabla resumen o scorecards | ✔️ |
-|  - Representar datos a través de gráficos simples | :fa-check:  |
+|  - Representar datos a través de gráficos simples | ✔️ |
 |  - Representar datos a través de gráficos o visuales avanzados| ✔️  |
 |  - Aplicar opciones de filtros para manejo e interacción |✔️  |
 |  **Presentar Resultados** | |   |
