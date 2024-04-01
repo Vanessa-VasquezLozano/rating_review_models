@@ -72,3 +72,10 @@ Los datos provienen de un repositorio en Kaggle: 'https://bit.ly/3OM11es'
 <h2>Dashboard</h2>
 
 ![](https://github.com/Vanessa-VasquezLozano/rating_review_models/blob/main/img/Linkedin.PNG)
+### Análisis de sentimiento & matriz de confusión
+![](https://github.com/Vanessa-VasquezLozano/rating_review_models/blob/main/img/L2.PNG)
+### Nube de palabras
+![](https://github.com/Vanessa-VasquezLozano/rating_review_models/blob/main/img/L3.PNG)
+### Categorias de productos
+![](https://github.com/Vanessa-VasquezLozano/rating_review_models/blob/main/img/L4.PNG)
+
