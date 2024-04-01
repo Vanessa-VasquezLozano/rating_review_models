@@ -31,36 +31,36 @@ Los datos provienen de un repositorio en Kaggle: 'https://bit.ly/3OM11es'
 | Habilidad |                         |
 |---|---|
 | **Procesar y preparar la base de datos** |
-|  - Conectar/importar datos a otras herramientas | :fa-check:  |
-|  - Identificar y manejar valores nulos | :fa-check:  |
-|  - Identificar y manejar valores duplicados | :fa-check:  |
-|  - Identificar y manejar datos fuera del alcance del análisis | :fa-check:  |
-|  - Identificar y manejar datos discrepantes en variables categóricas| :fa-check:  |
-|  - Identificar y manejar datos discrepantes en variables numéricas | :fa-check:  |
-|  - Comprobar y cambiar tipo de dato | :fa-check:  |
-|  - Crear nuevas variables| :fa-check:  |
-|  - Unir tablas | :fa-check:  |
-|  - Construir tablas auxiliares| :fa-check:  |
+|  - Conectar/importar datos a otras herramientas | ✔️  |
+|  - Identificar y manejar valores nulos | ✔️  |
+|  - Identificar y manejar valores duplicados | ✔️  |
+|  - Identificar y manejar datos fuera del alcance del análisis | ✔️  |
+|  - Identificar y manejar datos discrepantes en variables categóricas| ✔️ |
+|  - Identificar y manejar datos discrepantes en variables numéricas | ✔️  |
+|  - Comprobar y cambiar tipo de dato | ✔️  |
+|  - Crear nuevas variables| ✔️  |
+|  - Unir tablas | ✔️ |
+|  - Construir tablas auxiliares|✔️  |
 | **Hacer un análisis exploratorio**  |  |
-|  - Agrupar datos según variables categóricas | :fa-check:  |
-|  - Visualizar las variables categóricas | :fa-check:  |
-|  - Aplicar medidas de tendencia central | :fa-check:  |
-|  - Visualizar distribución | :fa-check:  |
-|  - Aplicar medidas de dispersións| :fa-check:  |
-|  - Calcular cuartiles, deciles o percentiles | :fa-check:  |
-|  - Calcular correlación entre variables | :fa-check:  |
+|  - Agrupar datos según variables categóricas | ✔️ |
+|  - Visualizar las variables categóricas |✔️  |
+|  - Aplicar medidas de tendencia central | ✔️  |
+|  - Visualizar distribución | ✔️  |
+|  - Aplicar medidas de dispersións| ✔️ |
+|  - Calcular cuartiles, deciles o percentiles | ✔️  |
+|  - Calcular correlación entre variables | ✔️  |
 |  **Aplicar técnica de análisis** | |
-|  - Aplicar segmentación | :fa-check:  |
-|  - Validar hipótesis | :fa-check:  |
-|  - Calcular riesgo relativo| :fa-check:  |
-|  - Aplicar procesamiento del lenguaje natural (NLP)| :fa-check:  |
+|  - Aplicar segmentación | ✔️  |
+|  - Validar hipótesis | ✔️ |
+|  - Calcular riesgo relativo| ✔️  |
+|  - Aplicar procesamiento del lenguaje natural (NLP)| ✔️  |
 |  **Resumir información en un dashboard o reporte** |   |
-|  - Representar datos a través de tabla resumen o scorecards | :fa-check:  |
+|  - Representar datos a través de tabla resumen o scorecards | ✔️ |
 |  - Representar datos a través de gráficos simples | :fa-check:  |
-|  - Representar datos a través de gráficos o visuales avanzados| :fa-check:  |
-|  - Aplicar opciones de filtros para manejo e interacción | :fa-check:  |
+|  - Representar datos a través de gráficos o visuales avanzados| ✔️  |
+|  - Aplicar opciones de filtros para manejo e interacción |✔️  |
 |  **Presentar Resultados** | |   |
-|   - Seleccionar gráficos e información relevante | :fa-check:  |
-|   - Crear una presentación | :fa-check:  |
-|   - Presentar resultados con conclusiones y recomendaciones | :fa-check:  |
+|   - Seleccionar gráficos e información relevante |✔️ |
+|   - Crear una presentación | ✔️  |
+|   - Presentar resultados con conclusiones y recomendaciones | ✔️ |
 
