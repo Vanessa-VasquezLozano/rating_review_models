@@ -8,29 +8,31 @@
 El objetivo principal consiste en comparar diversos algoritmos y métodos de análisis de sentimientos utilizados para categorizar los datos obtenidos del conjunto de datos de Ventas de Amazon. Se busca determinar qué enfoque produce los resultados más precisos y confiables en términos de precisión y fiabilidad. Estas evaluaciones se llevarán a cabo al comparar diferentes algoritmos de aprendizaje automático entre sí, así como al compararlos con un algoritmo basado en las calificaciones de estrellas.
 
 </p>
-
 <h3>Insumos</h3> 
-
 <p>
 Los datos provienen de un repositorio en Kaggle: 'https://bit.ly/3OM11es'
 
 </p>
 <h3>Herramientas que se usaron para el análisis</h3> 
 <p>
-  
-▪️ **Herramientas:**
- ▪️ BigQuery
- ▪️ PowerBI
- ▪️ Google Cloud
- ▪️ Google Colab
- ▪️ Pitch
 
-**Lenguajes:**
-▪️ SQL
-▪️ Python
+#### Herramientas 
+
+- BigQuery
+- PowerBI
+- Google Cloud
+- Google Colab
+- Pitch
+     
+#### Lenguajes
+
+* SQL
+* Python
+  
 </p>
 
-<h3>Habilidades desarrolladas en el análisis</h3> 
+<h3> Habilidades desarrolladas en el análisis</h3> 
+
 
 | Habilidad |                         |
 |---|---|
